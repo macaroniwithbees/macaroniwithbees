@@ -27,8 +27,10 @@
 ## 📊 github stats
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macaroniwithbees)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=macaroniwithbees&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaroniwithbees&layout=compact&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=macaroniwithebees)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=macaroniwithbees&hide_border=true" width="100%"/>
+</div>
