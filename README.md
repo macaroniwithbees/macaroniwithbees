@@ -27,9 +27,8 @@
 ## 📊 github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macaroniwithbees&show_icons=true&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaroniwithbees&layout=compact&hide_border=true&bg_color=00000000" height="160"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macaroniwithbees)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=macaroniwithbees&hide_border=true&background=00000000" width="10
+[![GitHub Streak](https://streak-stats.demolab.com/?user=macaroniwithebees)](https://git.io/streak-stats)
