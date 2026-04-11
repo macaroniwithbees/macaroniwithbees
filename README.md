@@ -27,8 +27,8 @@
 ## 📊 github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macaroniwithbees&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaroniwithbees&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=macaroniwithbees&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaroniwithbees&layout=compact&theme=dark&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
