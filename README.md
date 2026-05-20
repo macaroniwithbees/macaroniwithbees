@@ -5,22 +5,22 @@
 
 **software developer · the netherlands**
 
-![web development](https://img.shields.io/badge/web%20development-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489)
-[![student @ technova](https://img.shields.io/badge/student%20%40%20technova%20college-E6F1FB?style=flat-square&color=E6F1FB)](https://technovacollege.nl)
-![linux enthusiast](https://img.shields.io/badge/linux%20enthusiast-E1F5EE?style=flat-square&color=E1F5EE)
+![web development]
+[![student studying compsci]
+![linux enthusiast]
 
 </div>
 
 ---
 
 ## 💻 currently building
-> a revamped portfolio
+> a mobile app for borrowing things from neighbors & friends
 
 ## 📖 studying
-> web development at technova college · ede, netherlands
+> web development 
 
 ## ⚡ exploring
-> going deep on linux internals in my free time
+> going deep on linux internals & cybersecurity in my free time
 
 ---
 
