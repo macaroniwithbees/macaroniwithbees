@@ -5,10 +5,6 @@
 
 **software developer · the netherlands**
 
-![web development]
-[![student studying compsci]
-![linux enthusiast]
-
 </div>
 
 ---
