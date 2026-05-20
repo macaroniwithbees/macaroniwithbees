@@ -6,7 +6,7 @@
 ```
 
 # naomi 
-**developer · cybersecurity & linux enthusiast · somewhere on planet earth
+**developer · cybersecurity & linux enthusiast · somewhere on planet earth**
 
 *building thoughtful, slightly experimental things for the web*
 *with a growing obsession for how those things can be broken, secured, and hardened.*
