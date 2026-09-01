@@ -20,9 +20,9 @@
 ```
  
 ```bash
-[  active  ]  senior-year internship hunt — target: cybersecurity
-[  active  ]  horror game in development
-[  active  ]  portfolio projects shipping
+[  active  ]  landed a cybersecurity internship for senior year
+[  active  ]  fantasy horror game in development
+[  active  ]  working on new web dev portfolio projects
 [  active  ]  linux internals & ethical hacking
 ```
 
@@ -38,8 +38,8 @@
 
 ---
 
-### TBA — horror game *(in development)*
-> first-person psychological horror about inherited memory and rooms that refuse to stay empty.
+### TBA — fantasy horror game *(in development)*
+> dark fantasy psychological horror game taking place in a world unfamiliar to us.
 > built with **godot 4 · gdscript**
 
 ---
