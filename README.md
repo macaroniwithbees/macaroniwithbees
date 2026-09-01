@@ -65,10 +65,6 @@
 ```
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macaroniwithbees&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=888888" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaroniwithbees&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=888888" height="160"/>
-</div>
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=macaroniwithbees&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=888888&dates=555555" width="100%"/>
 </div>
 ---
